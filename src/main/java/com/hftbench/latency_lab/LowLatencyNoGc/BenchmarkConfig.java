@@ -20,4 +20,6 @@ public class BenchmarkConfig {
     // Advanced
     public boolean escapeAnalysisDisabled;
     public boolean simulateLoad;
+
+    public int tradeCount = 10000;
 }
